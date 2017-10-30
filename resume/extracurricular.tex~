@@ -1,0 +1,33 @@
+\cvsection{Extracurricular Activity}
+\begin{cventries}
+  \cventry
+    {Core Member}
+    {PC - Programming Club}
+    {IIT Mandi}
+    {Mar. 2017 - PRESENT}
+    {
+      \begin{cvitems}
+        \item {Selected core member and project mentor to the official Programming Club.}
+      \end{cvitems}
+    }
+  \cventry
+    {Finance Head and Core Team Member}
+    {Exodia (Annual Technical-Cultural Fest)}
+    {IIT Mandi}
+    {Sept. 2016 - Aug. 2017}
+    {
+      \begin{cvitems}
+        \item {Selected as the Finance head to the fest. Completed the tasks with integrity and responsibility.}
+      \end{cvitems}
+    }
+  \cventry
+    {Student Mentor and member, Guidance and Counselling Service -2016 & 2017}
+    {GCS(Guidance and Counselling Service)}
+    {IIT Mandi}
+    {2016 \& 2017 }
+    {
+      \begin{cvitems}
+        \item {Provided counselling and guidance to freshers as a mentor.}
+      \end{cvitems}
+    }
+\end{cventries}

@@ -1,0 +1,44 @@
+\cvsection{Courses}
+\begin{cvhonors}
+  \cvhonor
+      {Artificial Intelligence}
+    {}
+    {}
+    {}
+      \cvhonor
+      {Pattern Recognition}
+    {}
+    {}
+    {}
+  \cvhonor
+      {Computer Organization}
+    {}
+    {}
+    {}
+  \cvhonor
+      {Advanced Database Practicum}
+    {}
+    {}
+    {}
+  \cvhonor
+      {Introduction to Communicating and Distributed Processes}
+    {}
+    {}
+    {}
+  \cvhonor
+      {Introduction to Formal Concept Analysis}
+    {}
+    {}
+    {}
+      \cvhonor
+      {Probability and Random Processes}
+    {}
+    {}
+    {}
+          \cvhonor
+      {Advanced Data Structures and Algorithms }
+    {}
+    {}
+    {}
+
+\end{cvhonors}

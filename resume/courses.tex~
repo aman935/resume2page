@@ -1,0 +1,13 @@
+\cvsection{Education}
+\begin{cventries}
+  \cventry
+    {B.Tech. in Computer Science and Engineering (Ongoing)}
+    {IIT Mandi}
+    {Mandi, Himachal Pradesh}
+    {Aug. 2015 - PRESENT}
+    {
+      \begin{cvitems}
+        \item {Current CGPA : 7.67, Expected completion : Aug. 2019}
+      \end{cvitems}
+    }
+\end{cventries}
